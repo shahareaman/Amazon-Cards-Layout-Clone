@@ -43,7 +43,7 @@ This is a **practice project** focused on applying core **HTML**, **CSS Grid**, 
 
 ## 🖼️ Preview
 
-![Amazon Card Layout Preview](./images/preview.jpg) 
+![Amazon Card Layout Preview](https://github.com/shahareaman/Amazon-Cards-Layout-Clone/blob/main/amazon-cards.png) 
 
 ## 📍 Notes
 
